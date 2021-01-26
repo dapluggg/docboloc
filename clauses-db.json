@@ -1,0 +1,42 @@
+{
+    "document-name": "Rider_Crew_Deal_Memo",
+    "title": "Rider to Crew Deal Memo",
+
+    "foreword": {
+        "clause-name": "Rider_Crew_Deal_Memo_Foreword",
+        "title": "Foreword",
+        "text": "This rider ('Rider') to the Crew Deal Memo (the 'Crew Deal Memo' and collectively with the \
+                Rider, the 'Agreement') is dated as of September 21,\
+                2020 (the “Effective Date ́),  between \
+                Queenpins  Financing  and  Productions,  LLC('Company'),on  the  one hand, and Andrew Wehde  \
+                Inc.(“Lender ́) furnishing the services of Andrew Wehde('Artist'),on the  other  hand, in connection \
+                with  the  feature-length  motion  picture  currently  entitled “Queenpins ́ ('Picture').\
+                All  capitalized  terms  not  defined  herein  shall have the same meaning as set \
+                forth in the Agreement"
+    },
+
+    "conditions-precedent": {
+        "clause-name": "Conditions_Precedent",
+        "title": "Conditions Precedent",
+        "text": "Company's  obligations  hereunder  are  conditioned  upon  the  following:  \
+                (i)  Company's receipt  of  thisAgreement  fully  signed  by  Artist,  including  \
+                without  limitation  the  certificate  of  engagement  attached  hereto  as Schedule I; \
+                (ii) Company¶s receipt of all documents that may be  required  to  engage  and/or  pay \
+                Lender hereunder,  including without  limitationarticles  of  organization  or  incorporation  \
+                (as  applicable),an  I-9  and  any  necessary  visa  and/or  immigration paperwork; \
+                (iii) Company's ability to obtain insurance coverage for Lender and Artist at customary \
+                levels and rates, subject only to customary exclusions and deductible amounts; \
+                (iv) Company¶s receipt of any and all documentation necessary to qualify all or a portion of \
+                Lender¶s “Compensation ́ (as defined below) for the applicable production tax credit/incentive; \
+                and, (v) the close of the completion bond and full financing of the budget of the Picture (collectively,\
+                'Conditions Precedent')."        
+    },
+
+    "engagement": {
+        "clause-name": "Engagement",
+        "Title": "Engagement",
+        "text": "Company  hereby  engages Lender  to  cause Artist  to  \
+                furnish  services  as  a Director  of Photographyin connection with the production of the Picture."
+    }
+
+}
